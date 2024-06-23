@@ -1,0 +1,12 @@
+# ninja log v6
+3480	11899	7408032160206935	CMakeFiles/VersionManager.dir/VersionManager_autogen/mocs_compilation.cpp.obj	7a370495824e201b
+13299	13932	7408032258403246	VersionManager.exe	9aacf45a0313a9a0
+31	772	7408033102367313	C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	f747829ccbbf9b8d
+881	3462	7408032157665827	VersionManager_autogen/timestamp	ab835a43aafd9eea
+881	3462	7408032157665827	C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/VersionManager_autogen/timestamp	ab835a43aafd9eea
+881	3462	7408032157665827	VersionManager_autogen/mocs_compilation.cpp	ab835a43aafd9eea
+881	3462	7408032157665827	C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/VersionManager_autogen/mocs_compilation.cpp	ab835a43aafd9eea
+3498	11866	7408032160389751	CMakeFiles/VersionManager.dir/main.cpp.obj	96df589f883de2ee
+3518	13299	7408032160594113	CMakeFiles/VersionManager.dir/versionmanager.cpp.obj	f72e0e5c06f99530
+773	3220	7408033128670464	build.ninja	d46277c83d32251e
+69	780	7408033130976060	C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	f747829ccbbf9b8d

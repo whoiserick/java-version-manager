@@ -1,0 +1,9 @@
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/VersionManager.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/VersionManager_autogen_timestamp_deps.dir
+C:/Users/erick/Documents/VersionManager/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/VersionManager_autogen.dir
